@@ -1,3 +1,5 @@
+ Aim of this code is to find the most accurate and precise model to predict, which clients (test data) will stay and which are hesitant and might plan to leave the company.
+ 
  Dataset has following attributes:
 
     Rownumber: Unique ID for every row

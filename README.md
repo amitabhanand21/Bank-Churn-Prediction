@@ -19,4 +19,4 @@
 
 
 
-Had to use random over sampler since target variable was highly non-homogeneous.
+Used random over sampler since target variable was highly non-homogeneous.
